@@ -9,7 +9,6 @@ git clone https://github.com/izon-masuara/Login-Express.git
 masuk pada ke dalam folder Login-Express kemudian lakukan command
 
 ```
-npm init -y
 npm i
 ```
 
